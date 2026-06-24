@@ -1,4 +1,4 @@
-# Loom video link (also in tyhe notes of submission) : https://www.loom.com/share/03f4cda79b4b4c9795243e8a799c8ca5
+# Loom video link (also in the notes of submission) : https://www.loom.com/share/03f4cda79b4b4c9795243e8a799c8ca5
 # TakeMeter: Fire Force Discourse Classifier
 
 A fine tuned DistilBERT model that classifies posts from the Fire Force anime community into three discourse quality labels: analysis, hot_take, and reaction. This README documents the build, the evaluation, and an honest analysis of why the fine tuned model underperformed a zero shot baseline.
